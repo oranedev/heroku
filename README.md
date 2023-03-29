@@ -1,5 +1,5 @@
 # heroku
-Team Walthrough
+Team Walkthrough
 >Walkthrough for a team meeting on using Heroku Postgres to store versions of an app in development:
 
 **Introduction to Heroku Postgres (5 minutes)**
